@@ -43,6 +43,9 @@ public class Lesson1 {
         appleBox.change(appleBox2);
         System.out.println(appleBox.getWeight());
         System.out.println(appleBox2.getWeight());
+
+        Thread t = new Thread();
+        Thread t1 = new Thread(t);
     }
     // 1. Написать метод, который меняет два элемента массива местами (массив может быть любого ссылочного типа);
 
