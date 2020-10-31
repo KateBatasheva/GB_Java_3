@@ -3,13 +3,8 @@ package Lesson1;
 import Lesson1.BigTask.Apple;
 import Lesson1.BigTask.Box;
 import Lesson1.BigTask.Orange;
-import com.sun.org.apache.xpath.internal.operations.Or;
-
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
 
 public class Lesson1 {
     public static void main(String[] args) {
